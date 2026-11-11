@@ -185,4 +185,4 @@ This repository serves as the official landing page for Evope. The software is d
 **Get the most recent version of Evope today!**
 
 ---
-**Last updated:** 2026-11-11 15:49:22 UTC
+**Last updated:** 2026-11-11 22:27:02 UTC
